@@ -1,3 +1,30 @@
 [submodule "lab-api/node-js-api-training"]
 	path = lab-api/node-js-api-training
 	url = git@REMOTE_URL:https://github.com/neoteristis/node-js-api-training
+[submodule "online-courses/udemy-docstring-complete-python"]
+	path = online-courses/udemy-docstring-complete-python
+	url = git@REMOTE_URL:https://github.com/neoteristis/udemy-docstring-complete-python
+[submodule "prep-school-year01/peip1-imperative-programming"]
+	path = prep-school-year01/peip1-imperative-programming
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip1-imperative-programming
+[submodule "prep-school-year01/peip1-python-rogue-like-game"]
+	path = prep-school-year01/peip1-python-rogue-like-game
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip1-python-rogue-like-game
+[submodule "prep-school-year02/peip2-algorithmique-et-structure-donnees"]
+	path = prep-school-year02/peip2-algorithmique-et-structure-donnees
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-algorithmique-et-structure-de-donnes
+[submodule "prep-school-year02/peip2-arduino-project"]
+	path = prep-school-year02/peip2-arduino-project
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-arduino-projet
+[submodule "prep-school-year02/peip2-arduino-semester01"]
+	path = prep-school-year02/peip2-arduino-semester01
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-arduino-semester01
+[submodule "prep-school-year02/peip2-intro-dev-web"]
+	path = prep-school-year02/peip2-intro-dev-web
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-intro-dev-web
+[submodule "prep-school-year02/peip2-java-semester01"]
+	path = prep-school-year02/peip2-java-semester01
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-java-semester01
+[submodule "prep-school-year02/peip2-web-application"]
+	path = prep-school-year02/peip2-web-application
+	url = git@REMOTE_URL:https://github.com/neoteristis/peip2-web-application
