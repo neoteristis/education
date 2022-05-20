@@ -1,0 +1,3 @@
+[submodule "lab-api/node-js-api-training"]
+	path = lab-api/node-js-api-training
+	url = git@REMOTE_URL:https://github.com/neoteristis/node-js-api-training
